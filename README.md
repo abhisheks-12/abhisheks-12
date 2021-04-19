@@ -3,8 +3,8 @@ Hi there 👋
 
    Engineering Student
 - 🔭 I’m currently working on ------    vanilla js projects
-- 🌱 I’m currently learning   ------    data structures and algorithms
--                                        React js
+- 🌱 I’m currently learning   ------    data structures and algorithms and React js
+-                                        
 
 
 <!--
