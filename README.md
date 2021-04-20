@@ -1,6 +1,6 @@
 Hi there 👋
-- 🌱 I’m currently learning   ------   1) data structures and algorithms
--                                       2) React js
+- 🌱 I’m currently learning   ------ data structures and algorithms
+-                                      
                                     
 
 
