@@ -1,5 +1,5 @@
 Hi there 👋
-- 🌱 I’m currently learning   ------ data structures and algorithms
+- 🌱 I’m currently learning   ------ Front end
 -                                      
                                     
 
