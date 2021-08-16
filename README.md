@@ -1,6 +1,6 @@
 Hi there 👋
 I'm a JavaScript Developer.
 
-BIO
-🏢 I'm currently learning node , express.
+
+🏢 I'm currently learning node , express , databases..........................
 🌱 Learning all about javaScript
